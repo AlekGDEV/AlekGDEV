@@ -34,7 +34,8 @@
   </p>
   <hr>
 </div>
-  ![snake gif](https://github.com/AlekGDEV/AlekGDEV/blob/output/github-contribution-grid-snake.svg)
+  
+  
+![snake gif](https://github.com/AlekGDEV/AlekGDEV/blob/output/github-contribution-grid-snake.svg)
 - 🔭 I’m currently working on own projects.
 - 🌱 I’m currently learning NodeJS, Python.
--->
