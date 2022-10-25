@@ -20,7 +20,7 @@
 <div>
   <p align="center">
     <a href="https://github.com/AlekGDEV/AlekGDEV/files/9855980/Profile.pdf">
-      <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="resume">
+      <img src="https://img.shields.io/badge/Resume-13D12F?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="resume">
     </a>
     <a href="mailto: AlexandreGDEV@outlook.com" alt="Outlook" target="_blank">
       <img src="https://img.shields.io/badge/EMail-0B07F5?style=for-the-badge&logo=gmail&logoColor=white" alt="outlook">
