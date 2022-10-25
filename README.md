@@ -6,7 +6,7 @@
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=AlekGDEV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlekGDEV&layout=compact&theme=tokyonight"/>
 </div
-<br>
+<br><br>
 <div align="center">
   <img alt="Alek-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="Alek-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
