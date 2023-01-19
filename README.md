@@ -20,7 +20,7 @@
 <br>
 <div>
   <p align="center">
-    <a href="[Resume-Curriculum.pdf](https://github.com/AlekGDEV/AlekGDEV/files/10462030/Resume-Curriculum.pdf)">
+    <a href="https://github.com/AlekGDEV/AlekGDEV/files/10462030/Resume-Curriculum.pdf">
       <img src="https://img.shields.io/badge/Resume-13D12F?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="resume">
     </a>
     <a href="mailto: AlexandreGDEV@outlook.com" alt="Outlook" target="_blank">
