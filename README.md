@@ -53,8 +53,6 @@
     </a>
   </p>
 </div>
-  
-<hr>  
-
-- 🔭 I’m currently working on SouEnergy Enterprise and my own projects.
-- 🌱 I’m currently in Magento/AdobeCommerce Environment.
+<br>
+<p>- 🔭 <i>I’m currently working on SouEnergy Enterprise and my own projects.</i></p>
+<p>- 🌱 <i>I’m currently in Magento/AdobeCommerce Environment.</i></p>
