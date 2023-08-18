@@ -55,6 +55,6 @@
 </div>
   
 <hr>  
-![snake gif](https://github.com/AlekGDEV/AlekGDEV/blob/output/github-contribution-grid-snake.svg)
+
 - 🔭 I’m currently working on SouEnergy Enterprise and my own projects.
 - 🌱 I’m currently in Magento/AdobeCommerce Environment.
